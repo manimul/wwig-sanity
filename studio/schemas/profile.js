@@ -1,20 +1,20 @@
 export default {
     "type": "document",
-    "name": "project",
-    "title": "Project",
+    "name": "profile",
+    "title": "Profile",
     "fields": [
         {
             "type": "string",
-            "name": "title",
-            "title": "Title",
-            "description": "The title of the project",
+            "name": "name",
+            "title": "Name",
+            "description": "Name of the profile",
             "validation": Rule => Rule.required()
         },
         {
             "type": "string",
-            "name": "subtitle",
-            "title": "Subtitle",
-            "description": "The text shown just below the project title.",
+            "name": "job_title",
+            "title": "Job Title",
+            "description": "Profiles Job Title",
             "validation": null
         },
         {
@@ -52,8 +52,8 @@ export default {
             "validation": Rule => Rule.required(),
             "options": {
                 "list": [
-                    "project"
-                   
+                    "project",
+                    "profile"
                 ]
             }
         },
@@ -87,7 +87,7 @@ export default {
     ],
     "preview": {
         "select": {
-            "title": "title"
+            "title": "name"
         }
     }
 }

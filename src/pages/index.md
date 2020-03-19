@@ -25,7 +25,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     subtitle: An optional subtitle of the section
-    title: Recent Work
+    title: Ghana's Most Influential
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html

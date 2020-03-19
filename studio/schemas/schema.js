@@ -15,6 +15,7 @@ import contact from './contact.js';
 import page from './page.js';
 import post from './post.js';
 import project from './project.js';
+import profile from './profile.js';
 import section from './section.js';
 import action from './action.js';
 import contactblock from './contactblock.js';
@@ -47,6 +48,7 @@ export default createSchema({
     page,
     post,
     project,
+    profile,
     section,
     action,
     contactblock,
