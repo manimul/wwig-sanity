@@ -1,0 +1,28 @@
+{
+    "links": [
+        {
+            "icon": "fa-twitter",
+            "title": "Twitter",
+            "type": "twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "icon": "fa-instagram",
+            "title": "Instagram",
+            "type": "instagram",
+            "url": "https://www.instagram.com/"
+        },
+        {
+            "icon": "fa-dribbble",
+            "title": "Dribbble",
+            "type": "dribbble",
+            "url": "https://dribbble.com/"
+        },
+        {
+            "icon": "fa-linkedin",
+            "title": "LinkedIn",
+            "type": "linkedin",
+            "url": "https://www.linkedin.com/"
+        }
+    ]
+}

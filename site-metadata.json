@@ -1,0 +1,20 @@
+{
+    "accent_color": "yellow",
+    "color_scheme": "dark",
+    "footer": {
+        "content": "&copy; Stackbit-Exto. All rights reserved.",
+        "has_social": true,
+        "links": [
+            {
+                "new_window": true,
+                "text": "Made with Love by Mark NM"
+            }
+        ]
+    },
+    "header": {
+        "has_nav": true,
+        "logo_img": "https://cdn.sanity.io/images/7a54enxk/production/a385151c4fbc1d055fece78da9ad764b7ae1220d-48x37.svg",
+        "title": "Who's Who in Ghana"
+    },
+    "title": "Who's Who in Ghana"
+}

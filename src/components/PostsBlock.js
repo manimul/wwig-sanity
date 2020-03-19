@@ -11,7 +11,7 @@ export default class PostsBlock extends React.Component {
         return (
             <section id={_.get(this.props, 'section.section_id')} className="posts-block block outer">
               <div className="inner">
-                <div className="block-inside">
+                <div className="block-inside test">
                   <div className="block-header">
                     <h2 className="block-title line-top">{_.get(this.props, 'section.title')}</h2>
                     {_.get(this.props, 'section.subtitle') && 
