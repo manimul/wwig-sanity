@@ -2,6 +2,8 @@
 content_img_path: >-
   https://cdn.sanity.io/images/7a54enxk/production/48a249348d9e0777eba45c4325c2ae42c5c861ac-1280x850.jpg
 date: '2019-05-10'
+menus:
+  main: {}
 subtitle: Optional Project Subtitle
 template: project
 thumb_img_path: >-

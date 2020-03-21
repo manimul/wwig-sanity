@@ -2,8 +2,8 @@
 layout_style: mosaic
 menus:
   main:
-    title: Theme 2
-    weight: 3
+    title: Test
+    weight: 9
 template: portfolio
-title: Theme 2
+title: Testing New Portfolio
 ---

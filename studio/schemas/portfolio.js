@@ -71,7 +71,7 @@ export default {
             }
         }
     ],
-    "singleInstance": true,
+    "singleInstance": false,
     "preview": {
         "select": {
             "title": "title"

@@ -12,7 +12,7 @@ export default class Profile extends React.Component {
               <div className="inner">
                 <article className="post project post-full">
                   <header className="post-header inner-small">
-                    <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.name')}</h1>
+                    <h2 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.name')}</h2>
                     {_.get(this.props, 'pageContext.frontmatter.job_title') && 
                     <div className="post-subtitle">
                       {htmlToReact(_.get(this.props, 'pageContext.frontmatter.job_title'))}
@@ -32,5 +32,6 @@ export default class Profile extends React.Component {
             </div>
             </Layout>
         );
+        
     }
 }
