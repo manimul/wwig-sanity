@@ -29,6 +29,7 @@ import site_menus from './site_menus.js';
 import site_menu_item from './site_menu_item.js';
 import page_menus from './page_menus.js';
 import page_menu_item from './page_menu_item.js';
+import profileblock from './profileblock.js';
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -56,6 +57,7 @@ export default createSchema({
     heroblock,
     portfolioblock,
     postsblock,
+    profileblock,
     servicesblock,
     testimonialsblock,
     site_menus,

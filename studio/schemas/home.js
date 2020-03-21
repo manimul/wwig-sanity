@@ -33,6 +33,9 @@ export default {
                     "type": "postsblock"
                 },
                 {
+                    "type": "profileblock"
+                },
+                {
                     "type": "servicesblock"
                 },
                 {

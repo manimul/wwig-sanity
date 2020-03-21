@@ -6,6 +6,9 @@
         "has_social": true,
         "links": [
             {
+                "new_window": false
+            },
+            {
                 "new_window": true,
                 "text": "Made with Love by Mark NM"
             }
