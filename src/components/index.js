@@ -5,6 +5,7 @@ import Footer from './Footer';
 import Header from './Header';
 import HeroBlock from './HeroBlock';
 import PortfolioBlock from './PortfolioBlock';
+import ProfileBlock from './ProfileBlock';
 import PostsBlock from './PostsBlock';
 import ServicesBlock from './ServicesBlock';
 import Social from './Social';
@@ -19,6 +20,7 @@ export {
     Header,
     HeroBlock,
     PortfolioBlock,
+    ProfileBlock,
     PostsBlock,
     ServicesBlock,
     Social,
@@ -34,6 +36,7 @@ export default {
     Header,
     HeroBlock,
     PortfolioBlock,
+    ProfileBlock,
     PostsBlock,
     ServicesBlock,
     Social,
